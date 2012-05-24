@@ -1,0 +1,9 @@
+build
+tmp
+Makefile
+tishadow
+.DS_Store
+*~
+.project
+bin
+*.sublime-*
